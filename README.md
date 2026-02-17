@@ -28,4 +28,9 @@ A script that converts images from one format to another (e.g., JPG to PNG).
 - Choose the target format (default: PNG).
 - Run the script to convert all images.
 
+**How to use:**
+- Set the input and output folder paths.
+- Choose the target format (default: PNG).
+- Run the script to convert all images.
+
 More automation scripts will be added soon.
